@@ -1,0 +1,3 @@
+pip install flask (if it ask again)
+
+python app.py
